@@ -23,7 +23,7 @@
           - { name: victor,   public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOKNBark29wr9F9lR/PqwhnWzRFiE8HNx1f/0iazzogW"}
           - { name: aleksy,   public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIH+gipoXcQyEB8Vel+P7benQW1s/gH2KJ3jNk+a5P20H"}
           - { name: oscar,    public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPrNX0agEXpO1rzoBMw1ZyRvbypYENT9cdYABiDtOswR"}          
-
+          - { name: Michael,  public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDdEpOirTn8o00YuHzdgjBwOeDqOcN3CspI0MrcA9UCz"}
 
           # User used by github action deployments:
           - { name: github,   public_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIDSRDNj4SupDnA/1fjJ23GGVVpYF0rL8op/ExrQYQAtI" }
